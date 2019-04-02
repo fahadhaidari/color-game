@@ -1,0 +1,19 @@
+html, body {
+  background: #000000;
+  font-family: Courier, monospace;
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+  margin-top: 100px;
+  background: #000000;
+}
+.logger {
+  display: block;
+  margin: 10px auto;
+  width: 20px;
+  background: #111111;
+  color: #EEEEEE;
+  text-align: center;
+  font-size: 20px;
+}
